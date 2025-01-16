@@ -35,7 +35,7 @@ This dashboard was designed to:
 ---
 
 ### Dashboard Overview
-
+![Madhav Ecommerce Sales Dashboard](https://github.com/AartiShelke15/Madhav-Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20dashboard.png)
 
 ---
 
